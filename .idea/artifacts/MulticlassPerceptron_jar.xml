@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MulticlassPerceptron:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MulticlassPerceptron_jar</output-path>
+    <root id="archive" name="MulticlassPerceptron.jar">
+      <element id="directory" name="multiclass">
+        <element id="dir-copy" path="$PROJECT_DIR$/src/multiclass" />
+      </element>
+      <element id="module-output" name="MulticlassPerceptron" />
+    </root>
+  </artifact>
+</component>
